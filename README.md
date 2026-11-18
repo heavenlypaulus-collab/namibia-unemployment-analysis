@@ -1,0 +1,1 @@
+This project analyzes Namibian Unemployment trends from 1990 to 2025 using econometric data processing in R. It features a custom-generated visualization highlighting key historical shifts and labour market patterns over a 35-year period.
